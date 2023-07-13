@@ -179,7 +179,9 @@ nav ul li {
 .sl-info p, span{
     margin: 8px 0px;
 }
-
+.sl-info-2{
+    padding-bottom: 4px;
+}
 .sl-1, .sl-3{
     padding-right: 32px;
 }
