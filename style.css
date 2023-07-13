@@ -219,9 +219,14 @@ nav ul li {
 }
 #th-fisma p{
     padding: 8px 0px;
+    padding-left: 16px;
 }
 #th-fisma img{
     padding: 16px;
+    width: 85%;
+}
+.th-info-1, .th-info-2{
+    width: 65%;
 }
 
 #th-now{
@@ -231,9 +236,11 @@ nav ul li {
 }
 #th-now p{
     padding: 8px 0px;
+    padding-left: 16px;
 }
 #th-now img{
     padding: 16px;
+    width: 85%;
 }
 footer{
     display: flex;
